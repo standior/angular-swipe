@@ -1,0 +1,28 @@
+ul {
+  text-align: center;
+}
+
+li {
+  width: 200px;
+  height: 200px;
+  background-color: #DDF;
+  border: 1px solid black;
+}
+
+.glue-container {
+  width: 606px;
+  overflow-x: hidden;
+  text-align: center;
+}
+
+.left {
+  padding: 10px 50px 10px 50px;
+  float: left;
+  cursor: pointer;
+}
+
+.right {
+  padding: 10px 50px 10px 50px;
+  float: right;
+  cursor: pointer;
+}
